@@ -9,3 +9,5 @@ Testing reveals the generator’s excellence in recreating key elements of Ghibl
     Film-Specific Color Palettes: Whether emulating the earthy tones of My Neighbor Totoro or the vibrant hues of Spirited Away, it precisely matches the color schemes of specific films, ensuring stylistic authenticity.
 
 This technology serves as a bridge between personal photography and the masterful artistry of Studio Ghibli, allowing users to reimagine their memories through the lens of one of animation’s most beloved visual traditions.
+
+https://www.ghibli-ai-image-generator.xyz/
